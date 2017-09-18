@@ -1,0 +1,4 @@
+For pin connections:
+
+
+https://www.hackster.io/Blue_jack/personal-weather-station-arduino-esp8266-thingspeak-8d5cba
